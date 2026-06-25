@@ -1,90 +1,89 @@
-<div align="center">
+<!--
+  GitHub Profile README
+  username: chasehl
+-->
 
-```
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-░  sometimes i write code.                   ░
-░  sometimes the code writes back.           ░
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=timeGradient&text=Welcome&fontSize=50&fontAlignY=55&animation=twinkling&fontColor=9daaf8"/>
+</p>
 
-</div>
+<br/>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=500&lines=Hello+GitHub+%40+chasehl;sometimes+i+write+code.;sometimes+the+code+writes+back." />
+</p>
 
-<div align="center">
+<br/>
 
-*在逻辑的缝隙里，住着我写给自己看的注释。*
+<pre align="center">
+  在逻辑的缝隙里，住着我写给自己看的注释。
+</pre>
 
-</div>
+<br/><br/>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=timeGradient&text=Status&fontSize=50&fontAlignY=55&animation=twinkling&fontColor=9daaf8" />
+  <br/><br/><br/><br/>
+  <img align="center" width="400"
+    src="https://github-readme-stats.vercel.app/api?username=chasehl&theme=transparent&show_icons=true&hide_border=true&hide_title=true&hide=contribs&number_format=long" />
+  <img align="center" width="400"
+    src="https://streak-stats.demolab.com?user=chasehl&theme=transparent&hide_border=true" />
+  <br/><br/><br/>
+  <img width="800"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=chasehl&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+  <br/><br/><br/>
+  <img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chasehl&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=8&hide=html" />
+  <br/><br/><br/>
+</p>
 
-## `> whoami`
+<br/>
 
-```python
-class Developer:
-    mood       = "perpetually compiling"
-    at_night   = ["music", "cosmos", "long thoughts"]
-    believes   = "clean code is a form of respect"
-    status     = "git commit -m 'still figuring things out'"
-```
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=timeGradient&text=Skills&fontSize=50&fontAlignY=55&animation=twinkling&fontColor=9daaf8" />
+  <br/><br/><br/><br/>
 
----
+  <img align="center" src="https://readme-typing-svg.demolab.com?center=true&repeat=false&lines=Programming+Languages">
+  <br/><br/>
+  <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=python,cs,c,js,sql&perline=5">
+  <br/><br/><br/>
 
-## `> ls tech/`
+  <img align="center" src="https://readme-typing-svg.demolab.com?center=true&repeat=false&lines=Frameworks+/+Platforms">
+  <br/><br/>
+  <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,nodejs,selenium&perline=5">
+  <br/><br/><br/>
 
-```
-Languages/
-├── Python          ████████████░░  fluent
-├── C#              ███████████░░░  comfortable  
-├── JavaScript      █████████░░░░░  functional
-└── C               ████████░░░░░░  learning
+  <img align="center" src="https://readme-typing-svg.demolab.com?center=true&repeat=false&lines=Databases">
+  <br/><br/>
+  <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver,mysql">
+  <br/><br/><br/>
 
-Tools/
-├── Linux · Docker · Git
-├── Selenium · unittest
-└── SQL · ASP.NET
-```
+  <img align="center" src="https://readme-typing-svg.demolab.com?center=true&repeat=false&lines=Tools">
+  <br/><br/>
+  <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,linux,postman,vscode&perline=5">
+  <br/><br/><br/>
 
----
+  <img align="center" src="https://readme-typing-svg.demolab.com?center=true&repeat=false&lines=Operating+Systems">
+  <br/><br/>
+  <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,ubuntu&perline=5">
+  <br/><br/><br/>
+</p>
 
-## `> cat interests.txt`
+<br/>
 
-```
-> building things that solve real problems
-> reading about how computers actually think
-> music that sounds like it was written at 3am
-> philosophy that asks inconvenient questions
-> stars — the kind light years away
-```
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=timeGradient&text=Contact&fontSize=50&fontAlignY=55&animation=twinkling&fontColor=9daaf8" />
+  <br/><br/><br/><br/>
+  <a href="https://chasehl.github.io">
+    <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=github">
+  </a>
+  <br/><br/><br/>
+</p>
 
----
+<br/>
 
-## `> stat github/`
-
-<div align="center">
-
-![stats](https://github-readme-stats.vercel.app/api?username=chasehl&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&hide=contribs)
-
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chasehl&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9)
-
-</div>
-
----
-
-## `> ls projects/ --pinned`
-
-> *(见下方置顶仓库 · see pinned repos below)*
-
----
-
-<div align="center">
-
-```
-// the best code i've written
-// is the one that didn't need a comment
-```
-
-`ctrl+c` to exit · `ctrl+z` to regret · `ctrl+y` to try again
-
-</div>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=venom&height=300&color=timeGradient&text=...&section=header&reversal=false&fontAlignY=44"
+    alt="decoration" />
+</p>
