@@ -23,7 +23,7 @@
   <a href="mailto:hailin.chase.wang@gmail.com" title="邮箱"><img height="30" src="https://api.iconify.design/lucide/mail.svg?color=%23a78bfa" alt="邮箱" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/@Mikewan04298476" title="X"><img height="28" src="https://api.iconify.design/simple-icons/x.svg?color=%238b949e" alt="X" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@ChaseKing-d6k" title="YouTube"><img height="30" src="https://api.iconify.design/simple-icons/youtube.svg?color=%23ff0033" alt="YouTube" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.douyin.com/user/77050385876" title="抖音"><img height="28" src="https://api.iconify.design/simple-icons/tiktok.svg?color=%2325f4ee" alt="抖音" /></a>
+  <a href="https://v.douyin.com/VwyoniiUk0c/ 9@9.com :5pm" title="抖音"><img height="28" src="https://api.iconify.design/simple-icons/tiktok.svg?color=%2325f4ee" alt="抖音" /></a>
 </div>
 
 
