@@ -7,49 +7,34 @@
 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=170&amp;color=0:0f172a,50:0e7490,100:7c3aed&amp;text=CHASE&amp;fontColor=e2e8f0&amp;fontSize=46&amp;fontAlignY=36&amp;desc=build%20%C2%B7%20learn%20%C2%B7%20iterate&amp;descAlignY=57&amp;animation=fadeIn" alt="Chase profile banner" />
 
-  <a href="https://chasehl.github.io/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-chasehl.github.io-0e7490?style=for-the-badge&amp;logo=githubpages&amp;logoColor=white" alt="Portfolio" />
-  </a>
-
-  <br /><br />
-
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=24&amp;duration=2600&amp;pause=800&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=700&amp;height=55&amp;lines=Hi%2C+I%27m+Chase.;I+build+useful+things+with+code.;Python+%C2%B7+Vue+%C2%B7+Java+%C2%B7+JavaScript" alt="Typing introduction" />
 
-  <p><samp>在逻辑的缝隙里，住着我写给自己看的注释。</samp></p>
+  <p>
+    <samp>你好，我是 Chase。目前正在学习和探索更多技术。</samp><br />
+    <sub>Luoyang · Code · AI · Web</sub>
+  </p>
 
 </div>
 
-### `> whoami`
-
-```text
-chase@github
-├─ base    Luoyang, China
-├─ focus   Python automation × full-stack web
-└─ motto   Make it useful. Keep it simple.
-```
-
-### `> stack`
+<!-- Replace YOUR_EMAIL and the three YOUR_* social links before publishing. -->
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cs,c,js,vue,nodejs,dotnet,mysql,docker,linux,git&amp;theme=dark&amp;perline=12" alt="Python, Java, C Sharp, C, JavaScript, Vue, Node.js, .NET, MySQL, Docker, Linux and Git" />
+  <a href="https://chasehl.github.io/" title="个人博客"><img height="30" src="https://api.iconify.design/lucide/globe-2.svg?color=%2322d3ee" alt="个人博客" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:hailin.chase.wang@gmail.com" title="邮箱"><img height="30" src="https://api.iconify.design/lucide/mail.svg?color=%23a78bfa" alt="邮箱" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/@Mikewan04298476" title="X"><img height="28" src="https://api.iconify.design/simple-icons/x.svg?color=%238b949e" alt="X" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@ChaseKing-d6k" title="YouTube"><img height="30" src="https://api.iconify.design/simple-icons/youtube.svg?color=%23ff0033" alt="YouTube" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.douyin.com/user/77050385876" title="抖音"><img height="28" src="https://api.iconify.design/simple-icons/tiktok.svg?color=%2325f4ee" alt="抖音" /></a>
 </div>
 
-### `> shipping`
 
-[**Wland Reader**](https://github.com/chasehl/wland_reader) — 基于 FastAPI + Jinja2 的轻量小说阅读站，包含响应式阅读器、爬虫和阅读进度记忆。
-
-### `> pulse`
+<br />
 
 <div align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=chasehl&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent&amp;rank_icon=github" alt="Chase's GitHub statistics" />
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=chasehl&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;theme=transparent&amp;hide=html" alt="Chase's most used languages" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=chasehl&amp;bg_color=00000000&amp;color=8b949e&amp;line=22d3ee&amp;point=a78bfa&amp;area=true&amp;hide_border=true&amp;custom_title=Contribution%20Pulse" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=chasehl&amp;bg_color=00000000&amp;color=475569&amp;line=0891b2&amp;point=7c3aed&amp;area=true&amp;hide_border=true&amp;custom_title=Contribution%20Pulse" />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=chasehl&amp;bg_color=00000000&amp;color=8b949e&amp;line=22d3ee&amp;point=a78bfa&amp;area=true&amp;hide_border=true&amp;custom_title=Contribution%20Pulse" alt="Chase's contribution activity graph" />
-</picture>
+<br />
 
 <div align="center">
   <picture>
